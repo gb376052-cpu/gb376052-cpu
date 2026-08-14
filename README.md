@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ Languages & Tools
-- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Languages:** Python, JavaScript, HTML, CSS, SQL, Data Structure
 - **Tools & Technologies:** Git, GitHub, VS Code, Excel
 - **AI & Productivity:** GitHub Copilot, ChatGPT
 

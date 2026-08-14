@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there 👋, I'm Gaurav Bisht
 
-<!--
-**gb376052-cpu/gb376052-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 I’m currently exploring Software Development and building cool tech projects.
+- 🌱 I’m currently learning advanced programming and web technologies.
+- 👯 I’m looking to collaborate on open-source projects.
+- ⚡ Fun fact: I love automating tasks and exploring AI tools!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages & Tools
+- **Languages:** Python, JavaScript, HTML, CSS, SQL
+- **Tools & Technologies:** Git, GitHub, VS Code, Excel
+- **AI & Productivity:** GitHub Copilot, ChatGPT
+
+---
+
+### 📊 GitHub Stats
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+
+---
+### 📫 How to reach me:
+- Connect with me on [LinkedIn](https://linkedin.com) 

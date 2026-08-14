@@ -14,7 +14,7 @@
 ---
 
 ### 📊 GitHub Stats
-![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gb376052-cpu&show_icons=true&theme=radical)
+![Gaurav's GitHub Stats][https://github-readme-stats.vercel.app/api?username=gb376052-cpu&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=gb376052-cpu&show_icons=true&theme=radical)
 
 ---
 ### 📫 How to reach me:

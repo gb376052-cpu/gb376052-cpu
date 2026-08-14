@@ -14,5 +14,9 @@
 
 ---
 
+### 📊 GitHub Stats
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gb376052-cpu&show_icons=true&theme=radical)
+
+---
 ### 📫 How to reach me:
-- Connect with me on [LinkedIn]https://www.linkedin.com/in/gaurav-bisht-917ab0336?utm_source=share_via&utm_content=profile&utm_medium=member_android
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-bisht-917ab0336?utm_source=share_via&utm_content=profile&utm_medium=member_android) 

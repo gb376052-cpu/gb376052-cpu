@@ -1,9 +1,8 @@
 ### Hi there 👋, I'm Gaurav Bisht
 
 - 💻 I’m currently exploring Software Development and building cool tech projects.
-- 🌱 I’m currently learning advanced programming and web technologies.
-- 👯 I’m looking to collaborate on open-source projects.
-- ⚡ Fun fact: I love automating tasks and exploring AI tools!
+- 🌱 I’m constantly learning new technologies and improving my coding skills.
+- ⚡ Fun fact: I love automating tasks and exploring AI-powered tools!
 
 ---
 
@@ -19,4 +18,4 @@
 
 ---
 ### 📫 How to reach me:
-- Connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-bisht-917ab0336?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gaurav-bisht-917ab0336?utm_source=share_via&utm_content=profile&utm_medium=member_android)

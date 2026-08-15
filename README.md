@@ -13,6 +13,9 @@
 
 ---
 
+![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gb376052-cpu&show_icons=true&theme=radical)
+
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=gb376052-cpu&theme=radical)](https://git.io/streak-stats)
 
 ---
